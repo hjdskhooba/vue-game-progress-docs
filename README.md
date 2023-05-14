@@ -1,5 +1,5 @@
 # vue-game-progress-docs
-This is the documentation for the [vue-game-progress repository](https://github.com/hjdskhooba/vue-game-progress) 
+This is the english documentation for the [vue-game-progress repository](https://github.com/hjdskhooba/vue-game-progress) 
 # About
 This app was created to show an example of what a player's progress might look like in a game, and it can even be customized with a RESTful API and linked to a real game.
 # Technologies
